@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -4255869532
     TOKEN = "7280839062:AAHtqdPU3wWIm_nYTyrVpVuS07___yq8zyU"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://telegra.ph/file/85b7a97a776bcd2a532f4.jpg", "https://telegra.ph/file/ea39f615a7eaabacf038e.jpg"]
     SUPPORT_CHAT = "nexus_supp1"
     UPDATE_CHAT = "nexus_supp2"
     BOT_USERNAME = "nexus_girlS_catcher_bot"
