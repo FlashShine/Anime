@@ -34,9 +34,18 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         
         caption = f"""
-        ***Heyyyy...***
+        ***✖ 𝗛ᴇʏ , 𝗜'𝗺 Pʜɪʟᴏ Wᴀɪғᴜ***
 
-***I am An Open Source Character Catcher Bot...​Add Me in Your group.. And I will send Random Characters After.. every 100 messages in Group... Use /guess to.. Collect that Characters in Your Collection.. and see Collection by using /Harem... So add in Your groups and Collect Your harem***
+***⚘ Tʜɪs Bᴏᴛ Is Mᴀᴅᴇ Fᴏʀ Anime   
+    Lover. Tʜɪs Bᴏᴛ Sᴇɴᴅ Rᴀɴᴅᴏᴍ 
+    Cʜᴀʀᴀᴄᴛᴇʀs Aғᴛᴇʀ 10 Mᴇssᴀɢᴇs 
+    ɪɴ Group.
+ 
+⚘ Usᴇ /Guess Tᴏ Cᴏʟʟᴇᴄᴛ Tʜᴇ 
+   Cʜᴀʀᴀᴄᴛᴇʀs Iɴ Yᴏᴜʀ Cᴏʟʟᴇᴄᴛɪᴏɴ.
+
+⚘  Bʏ Usɪɴɢ /Harem See Your 
+   Collections***
         """
         
         keyboard = [
