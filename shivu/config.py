@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "7222795580", "6180999156", "7202072688"
     GROUP_ID = -1002133191051
     TOKEN = "6923226184:AAEhP0vCfJ8_i6hnzC4WuLMoOdaz0KUzDpw"
-    mongo_url = "mongodb+srv://pythoncux:pythoncux@cluster0.tl7krxg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    mongo_url = "mongodb+srv://PhiloWise:Philo@waifu.yl9tohm.mongodb.net/?retryWrites=true&w=majority&appName=Waifu"
     PHOTO_URL = ["https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg", "https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg"]
     SUPPORT_CHAT = "PhiloMusicSupport"
     UPDATE_CHAT = "TechPiroBots"
