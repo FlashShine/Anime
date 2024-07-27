@@ -34,7 +34,7 @@ async def start(update: Update, context: CallbackContext) -> None:
         
         
         caption = f"""
-        ***✖ 𝗛ᴇʏ , 𝗜'𝗺 Pʜɪʟᴏ Wᴀɪғᴜ***
+        ***✖ 𝗛ᴇʏ , 𝗜'𝗺 Pʜɪʟᴏ 🝮︎︎︎︎︎︎︎ Hᴜꜱʙᴀɴᴅᴏ***
 
 ***⚘ Tʜɪs Bᴏᴛ Is Mᴀᴅᴇ Fᴏʀ Anime   
     Lover. Tʜɪs Bᴏᴛ Sᴇɴᴅ Rᴀɴᴅᴏᴍ 
