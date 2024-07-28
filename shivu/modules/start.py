@@ -38,7 +38,7 @@ async def start(update: Update, context: CallbackContext) -> None:
 
 ***⚘ Tʜɪs Bᴏᴛ Is Mᴀᴅᴇ Fᴏʀ Anime   
     Lover. Tʜɪs Bᴏᴛ Sᴇɴᴅ Rᴀɴᴅᴏᴍ 
-    Cʜᴀʀᴀᴄᴛᴇʀs Aғᴛᴇʀ 10 Mᴇssᴀɢᴇs 
+    Cʜᴀʀᴀᴄᴛᴇʀs Aғᴛᴇʀ 30 Mᴇssᴀɢᴇs 
     ɪɴ Group.
  
 ⚘ Usᴇ /Guess Tᴏ Cᴏʟʟᴇᴄᴛ Tʜᴇ 
