@@ -49,10 +49,10 @@ async def start(update: Update, context: CallbackContext) -> None:
         """
         
         keyboard = [
-            [InlineKeyboardButton("ADD ME", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
-            [InlineKeyboardButton("SUPPORT", url=f'https://t.me/{SUPPORT_CHAT}'),
-            InlineKeyboardButton("UPDATES", url=f'https://t.me/{UPDATE_CHAT}')],
-            [InlineKeyboardButton("HELP", callback_data='help')],
+            [InlineKeyboardButton("Add Me Baby", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
+            [InlineKeyboardButton("Support Group", url=f'https://t.me/{SUPPORT_CHAT}'),
+            InlineKeyboardButton("Updates", url=f'https://t.me/{UPDATE_CHAT}')],
+            [InlineKeyboardButton("Help", callback_data='help')],
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
         photo_url = random.choice(PHOTO_URL)
@@ -62,10 +62,10 @@ async def start(update: Update, context: CallbackContext) -> None:
     else:
         photo_url = random.choice(PHOTO_URL)
         keyboard = [
-            [InlineKeyboardButton("ADD ME", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
-            [InlineKeyboardButton("SUPPORT", url=f'https://t.me/{SUPPORT_CHAT}'),
-            InlineKeyboardButton("UPDATES", url=f'https://t.me/{UPDATE_CHAT}')],
-            [InlineKeyboardButton("HELP", callback_data='help')],
+            [InlineKeyboardButton("Add Me Baby", url=f'http://t.me/{BOT_USERNAME}?startgroup=new')],
+            [InlineKeyboardButton("Support Group", url=f'https://t.me/{SUPPORT_CHAT}'),
+            InlineKeyboardButton("Updates", url=f'https://t.me/{UPDATE_CHAT}')],
+            [InlineKeyboardButton("Help", callback_data='help')],
         ]
         
         reply_markup = InlineKeyboardMarkup(keyboard)
