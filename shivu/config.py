@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "7202072688"
     sudo_users = "7222795580", "6180999156" , "7032905213" , "7177206350"
     GROUP_ID = -1001548130580
-    TOKEN = "6811413507:AAHAvbs1e_G4gcgAObJ2Gg72AqKKNY1LylA"
+    TOKEN = "7579121046:AAEZ390bKvfuK04iF8lAVhO0lO14gYtaqzA"
     mongo_url = "mongodb+srv://PhiloWise:Philo@waifu.yl9tohm.mongodb.net/?retryWrites=true&w=majority&appName=Waifu"
     PHOTO_URL = ["https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg", "https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg"]
     SUPPORT_CHAT = "PhiloMusicSupport"
