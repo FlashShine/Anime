@@ -10,7 +10,7 @@ class Config(object):
     PHOTO_URL = ["https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg", "https://telegra.ph/file/8d9c4af9b7705b1aafc99.jpg"]
     SUPPORT_CHAT = "TechPiroBots"
     UPDATE_CHAT = "TechPiroBots"
-    BOT_USERNAME = "@Husbando_Snatch_Bot"
+    BOT_USERNAME = "@Game_Waifu_Husbando_Bot"
     CHARA_CHANNEL_ID = "-1002225093492"
     api_id = 26626068
     api_hash = "bf423698bcbe33cfd58b11c78c42caa2"
